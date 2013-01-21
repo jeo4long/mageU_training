@@ -1,0 +1,9 @@
+<config>
+    <default>
+        <some>
+            <random>
+                <xpath>Here is a value</xpath>
+            </random>
+        </some>
+    </default>
+</config>
